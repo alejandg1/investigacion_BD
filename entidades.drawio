@@ -1,0 +1,13 @@
+<mxfile host="65bd71144e">
+    <diagram id="x1lwix1Wvl4cU2t_aIsR" name="Página-1">
+        <mxGraphModel dx="978" dy="1312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;h1&gt;Req&lt;/h1&gt;&lt;p&gt;- gestionar info d estudiantes, profesores, cursos, carreras,facultades,calificaciones&lt;/p&gt;&lt;p&gt;- permitir registro de estudiante con datos personales (CI,decha nacimiento,genero, telefono, email, dirección, ciudad, pais, foto, una sola carrera)&lt;/p&gt;&lt;p&gt;-&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;permitir registro de profesores con datos personales (CI,decha nacimiento,genero, telefono, email, dirección, ciudad, pais, foto, nivel de formacion, areas de experiencia, pueden estar en una o más facultades)&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- carrera pertecenen a facultad y tendrán (codigo, nombre, plan de estudio) el plan define los cursos obliigatorios y efectivos&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- los cursos tendran (codigo, nombre, no. creditos, horas semanales, requesitos, profesor asignado, cupo maximo) puede ser teorico o practico&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- el estudiante ingresa a varios cursos por semestre segun el plan de estudio de su carrera, debera aprobar prerequisitos para cursos avanzados&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- registar notas parciales y finales de los estudiantes en cada curso (calcula promedio de semestre y acumulado por estudiante)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- generar reportes de notas por curso, carrrera, facultad y periodo academico&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- permitira busquedas filtros y estadisticas de estudiantes, profesores, cursos, carreras y calificaciones&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="20" width="410" height="460" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
